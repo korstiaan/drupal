@@ -1,7 +1,7 @@
 {
-    "name": "korstiaan/drupal",
+    "name": "korstiaan/drupal-mirror",
     "description": "Mirror of drupal repo",
-    "keywords": ["drupal", "mirro"],
+    "keywords": ["drupal", "mirror"],
     "license": "GPL",
     "authors": [
         {
