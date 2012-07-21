@@ -1,0 +1,12 @@
+{
+    "name": "korstiaan/drupal",
+    "description": "Mirror of drupal repo",
+    "keywords": ["drupal", "mirro"],
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Drupal contributers",
+            "homepage": "http://www.drupal.org"
+        }
+    ]
+}
